@@ -1,0 +1,4 @@
+*.backup.html
+.vscode/
+.idea/
+*.log
